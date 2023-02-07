@@ -116,7 +116,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                       borderRadius: BorderRadius.all(
                                         Radius.circular(14),
                                       ),
-                                      color: Colors.white,
+                                      color: Colors.red,
                                     ),
                                     child: const TextField(
                                       obscureText: true,
