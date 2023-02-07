@@ -114,7 +114,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                   child: Container(
                                     decoration: const BoxDecoration(
                                       borderRadius: BorderRadius.all(
-                                        Radius.circular(12),
+                                        Radius.circular(14),
                                       ),
                                       color: Colors.white,
                                     ),
